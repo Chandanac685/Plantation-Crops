@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Marklist</title>
+    <title>Registration Form</title>
   </head>
   <body>
-    <table border align=center>
-      <tr><th colspan=6>Sachin(1001)</th></tr>
-      <tr>
-        <th>Course Title</th>
-        <th>IA</th>
-        <th>ESE</th>
-        <th>Total Marks</th>
-        <th>Maximum</th>
-        <th>Result</th>
-      </tr>
-      <tr>
-        <td>Paper 1</td>
-        <td>10</td><td>38</td><td>48</td><td>50</td><td>P</td>
-      </tr>
-      <tr>
-        <td>Paper 2</td>
-        <td>9</td><td>30</td><td>39</td><td>50</td><td>P</td>
-      </tr>
-      <tr>
-        <td>Paper 1</td>
-        <td>10</td><td>40</td><td>50</td><td>50</td><td>P</td>
-      </tr>
+    <form>
+      <input type="text"placeholder="Your Name"required><br/><br/>
+      Gender:
+      <input type="radio"name="gender"value="Male">Male
+      <input type="radio"name="gender"value="Female">Female
+      <input type="email"placeholder="Email Address"required><br/><br/>
+      Date of Birth<br/>
+      <input type="date"><br/><br/>
+      <input type="password"placeholder="Password"><br/><br/>
+      Select your University<br/>
+      <select>
+        <option>Kannur University</option>
+        <option>Calicut University</option>
+        <option>MG University</option>
+        <option>Kerala University</option>
+      </select><br/><br/>
+      Languages Known<br/>
+      <input type="checkbox"name="language"value="English">English
+      <input type="checkbox"name="language"value="Hindi">Hindi
+      <input type="checkbox"name="language"value="Malayalam">Malayalam
+      <input type="submit">
+    </form>
   </body>
 </html>
