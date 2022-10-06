@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>NEHRU ARTS AND SCIENCE COLLEGE KANHANGAD</title>
+    <title>Marklist</title>
   </head>
   <body>
-    <h1>NEHRU ARTS AND SCIENCE COLLEGE KANHANGAD</h1>
-    <p><font color=green>Nehru Arts and Science College</font> was established in <i>1964</i>.It was situated in the district <b>Kasaragod</b>.</p>
-    <hr>
-    <h2>Class Timings</h2>
-    <ol>
-      <li>9.30 - 10.30</li>
-      <li>10.30 - 11.30</li>
-      <li>11.30 - 12.30</li>
-      <li>1.30 - 2.30</li>
-      <li>2.30 - 3.30</li>
-    </ol>
+    <table border align=center>
+      <tr><th colspan=6>Sachin(1001)</th></tr>
+      <tr>
+        <th>Course Title</th>
+        <th>IA</th>
+        <th>ESE</th>
+        <th>Total Marks</th>
+        <th>Maximum</th>
+        <th>Result</th>
+      </tr>
+      <tr>
+        <td>Paper 1</td>
+        <td>10</td><td>38</td><td>48</td><td>50</td><td>P</td>
+      </tr>
+      <tr>
+        <td>Paper 2</td>
+        <td>9</td><td>30</td><td>39</td><td>50</td><td>P</td>
+      </tr>
+      <tr>
+        <td>Paper 1</td>
+        <td>10</td><td>40</td><td>50</td><td>50</td><td>P</td>
+      </tr>
   </body>
 </html>
