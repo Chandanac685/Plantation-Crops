@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>NEHRU ARTS AND SCIENCE COLLEGE KANHANGAD</h1>
-    <p><font color=red>Nehru Arts and Science College</font>was established in <i>1964</i>.It was situated in the district <b>Kasaragod</b>.</p>
+    <p><font color=red>Nehru Arts and Science College</font> was established in <i>1964</i>.It was situated in the district <b>Kasaragod</b>.</p>
     <hr>
     <h2>Class Timings</h2>
     <ol>
